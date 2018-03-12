@@ -8,3 +8,4 @@
 4. Added avatar folder for the creators of the platform
 5. Added Form folder to store the SignUp Form
 6. Added Login folder to store the Login Form
+7. Added Connection folder to establish the connection with database
