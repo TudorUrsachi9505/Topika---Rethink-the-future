@@ -4,6 +4,11 @@ html,body{
     padding: 0;   
 }
 
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+
 body{
     
     font-size: 1.125em;
@@ -353,6 +358,15 @@ blockquote { margin: 0; }
     font-size: 1.5em;
     margin-left: 235px;
   
+}
+
+@media (min-width: 38em){
+    
+    .footer{
+        position: absolute;
+        margin: auto;
+        width: 100%;
+    }
 }
 
 
