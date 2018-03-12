@@ -1,0 +1,12 @@
+
+.submit{
+    
+        background-color: #00cc00;
+        border-radius: 5px;
+        border-style: none;
+        color: white;
+        padding: 5px;
+        
+        }
+
+.form-group{ width: 25%; }
