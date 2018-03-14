@@ -18,7 +18,7 @@ function NewUser()
 	$data = mysqli_query ($con, $query) or die (mysqli_error($con));
 	if($data)
 	{
-	echo "YOUR REGISTRATION IS COMPLETED!";
+	echo "YOUR REGISTRATION IS COMPLETE!";
 	}
 }
 
